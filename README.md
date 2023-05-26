@@ -47,4 +47,6 @@
 ![](https://github-trophies.vercel.app/?username=DGKA9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C834%20hrs%2055%20mins-blue)
+<br>
 [![](https://visitcount.itsvg.in/api?id=DGKA9&icon=5&color=11)](https://visitcount.itsvg.in)
