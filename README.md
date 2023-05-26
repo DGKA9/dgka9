@@ -44,4 +44,4 @@
 ![](https://github-trophies.vercel.app/?username=DGKA9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DGKA9&icon=5&color=1110)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DGKA9&icon=5&color=11)](https://visitcount.itsvg.in)
