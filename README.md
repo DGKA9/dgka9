@@ -17,6 +17,9 @@
 - 💬 Ask me about anything [here ](https://github.com/DGKA9/dgka9/issues)
 - 📫 Contact: _dangkhoa200299@gmail.com_
 
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+
 # 💻Tech Stack
 <br>
 <code><img height="50" alt="kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
